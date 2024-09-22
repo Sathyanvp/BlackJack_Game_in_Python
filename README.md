@@ -18,7 +18,7 @@
 
   ->Python 3.x
   
-  ->No external libraries required
+  ->Random module
   
 **<h2>How to Play</h2>**
 
